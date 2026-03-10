@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+// Rectangle area program
+
 int length, width;
 
 void input()
@@ -26,4 +28,5 @@ int main()
 {
     input();
     output();
+
 }
