@@ -32,9 +32,11 @@ void output()
 int main()
 {
     input();
+    cout << endl;
     output();
 
 }
+
 
 
 
