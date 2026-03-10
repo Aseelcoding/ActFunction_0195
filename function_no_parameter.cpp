@@ -22,6 +22,8 @@ int rectangleArea()
     return length * width;
 }
 
+
+// Function to display result
 void output()
 {
     cout << "Result : " << rectangleArea();
@@ -33,4 +35,5 @@ int main()
     output();
 
 }
+
 
