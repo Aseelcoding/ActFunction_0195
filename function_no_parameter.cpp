@@ -26,7 +26,7 @@ int rectangleArea()
 // Function to display result
 void output()
 {
-    cout << "Result : " << rectangleArea();
+    cout << "Rectangle Area : " << rectangleArea();
 }
 
 int main()
@@ -35,6 +35,7 @@ int main()
     output();
 
 }
+
 
 
 
