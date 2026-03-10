@@ -5,6 +5,9 @@ using namespace std;
 
 int length, width;
 
+
+
+// Function to get user input
 void input()
 {
     cout << "Enter Length : ";
@@ -30,3 +33,4 @@ int main()
     output();
 
 }
+
