@@ -25,7 +25,7 @@ int rectanglePerimeter(int a, int b)
 {
     return 2 * (a + b);
 }
-
+// Function to display result
 void output()
 {
     cout << "Area : " << rectangleArea(length, width) << endl;
@@ -38,4 +38,5 @@ int main()
     cout << "Perimeter : " << rectanglePerimeter(length, width);
 
 }
+
 
