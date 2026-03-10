@@ -10,7 +10,7 @@ int length, width;
 // Function to get user input
 void input()
 {
-    cout << "Enter Length : ";
+    cout << "Enter rectangle length : ";
     cin >> length;
 
     cout << "Enter Width : ";
@@ -35,5 +35,6 @@ int main()
     output();
 
 }
+
 
 
