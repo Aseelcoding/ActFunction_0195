@@ -4,6 +4,9 @@ using namespace std;
 // Rectangle area program
 int length, width;
 
+
+
+// Function to get user input
 void input()
 {
     cout << "Enter Length : ";
@@ -35,3 +38,4 @@ int main()
     cout << "Perimeter : " << rectanglePerimeter(length, width);
 
 }
+
